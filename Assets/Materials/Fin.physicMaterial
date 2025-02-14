@@ -6,9 +6,9 @@ PhysicMaterial:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Levier
-  dynamicFriction: 50
-  staticFriction: 50
+  m_Name: Fin
+  dynamicFriction: 500
+  staticFriction: 500
   bounciness: 0
   frictionCombine: 0
   bounceCombine: 0
